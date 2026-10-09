@@ -1,0 +1,18 @@
+export const cities = [
+  { name: 'London',   country: 'United Kingdom', tz: 'Europe/London' },
+  { name: 'Paris',    country: 'France',         tz: 'Europe/Paris' },
+  { name: 'Tokyo',    country: 'Japan',          tz: 'Asia/Tokyo' },
+  { name: 'Moscow',   country: 'Russia',         tz: 'Europe/Moscow' },
+  { name: 'Beijing',  country: 'China',          tz: 'Asia/Shanghai' },
+  { name: 'New York', country: 'United States',  tz: 'America/New_York' },
+  { name: 'Rome',     country: 'Italy',          tz: 'Europe/Rome' },
+  { name: 'Istanbul', country: 'Turkey',         tz: 'Europe/Istanbul' },
+  { name: 'Berlin',   country: 'Germany',        tz: 'Europe/Berlin' },
+  { name: 'Madrid',   country: 'Spain',          tz: 'Europe/Madrid' },
+  { name: 'Cairo',    country: 'Egypt',          tz: 'Africa/Cairo' },
+  { name: 'Dubai',    country: 'UAE',            tz: 'Asia/Dubai' },
+  { name: 'Mumbai',   country: 'India',          tz: 'Asia/Kolkata' },
+  { name: 'Singapore',country: 'Singapore',      tz: 'Asia/Singapore' },
+  { name: 'Sydney',   country: 'Australia',      tz: 'Australia/Sydney' },
+  { name: 'Rio',      country: 'Brazil',         tz: 'America/Sao_Paulo' },
+]
